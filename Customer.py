@@ -15,4 +15,3 @@ class Customer:
     
     def printName(self):
         print(self.name)
-    
